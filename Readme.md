@@ -210,6 +210,6 @@ __Descripción:__ Encontrar el mensaje oculto en los siguientes números:
    120 116 37 106 115 37 71 106 105 122
    ```
 
-   Considerando que la llave de cifrado es 5.
+   Considerando que la llave de cifrado está entre 1 y 100
 
 __Medalla al primero que lo descifre__
